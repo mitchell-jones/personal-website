@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Mitchell Jones Portfolio
+theme:
+  name: material
+
+nav:
+    - Home: index.md
+    - Experience: experience.md
+    - Data Science: datascience.md

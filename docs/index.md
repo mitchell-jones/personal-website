@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+---
+hide:
+  - toc
+---
+# Hi, I'm Mitchell!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Nice to meet you. I'm a master's student at the University of North Carolina at Charlotte, studying Data Science and Business Analytics!
 
-## Commands
+<p style="text-align:center;"><img src="img/headshot cropped.jpg" alt="Logo"></p>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+My interests include x. I'm interested in Data-Science and analytics-related roles for January of 2022. Feel free to explore my portfolio - if you'd like to connect, feel free to connect with me on my socials below.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Socials | Contact Me
