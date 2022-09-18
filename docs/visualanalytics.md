@@ -1,4 +1,4 @@
-# Data Science 
+# Visual Analytics
 ## [Project Name](project-template.md)
 Short blurb
 

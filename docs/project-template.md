@@ -1,3 +1,7 @@
+---
+hide:
+  - toc
+---
 # Project Name
 ### Project Focus
 

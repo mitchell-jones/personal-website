@@ -5,12 +5,12 @@ hide:
 
 # Experience
 ### Data Science Intern | IBM
-#### Dates: May 2022 – Present
+#### Dates: May 2022 – August 2022
 - Developed new model and data pipeline for integration into a career management system for
 identifying the “Next Best Skill” for an employee to learn - to best perform in their current role or
 become desirable for their next one.
 - Drove these recommendations using advanced NLP techniques like keyword
-extraction, tf-idf, and Word2vec as well as MLOps software to deploy and manage production
+extraction, tf-idf, and Word2vec as well as MLOps software to deploy and manage production codebases
 
 ### Data Analyst | Visual Risk IQ
 #### Dates: April 2018 – Present
